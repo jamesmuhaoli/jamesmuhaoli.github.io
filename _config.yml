@@ -22,7 +22,7 @@ repository               : "jamesmuhaoli/jamesmuhaoli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.PNG"
+  avatar           : "profile.JPG"
   name             : "James Li"
   pronouns         : "he/him" 
   bio              : "Third-year undergraduate student at the University of Wiscosin-Madison triple majoring in Economics, Mathematics, and Data Science."
